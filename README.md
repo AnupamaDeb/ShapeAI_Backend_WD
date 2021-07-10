@@ -1,1 +1,1 @@
-# ShapeAI_Backend_WD
+Hi, I made this project during the 7 Days Backend with Nodejs Bootcamp, Conducted by ShapeAI. The Instructor during the session was Shaurya Sinha Sir (Data Analyst Intern at Jio). I got to learn a lot during these 7 days and it was a great experience learning with ShapeAI. Everything was explained from the very basics. I enjoyed these 7 days. 
